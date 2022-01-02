@@ -1,7 +1,7 @@
 # cross-wavelet-hadamard
 cross-wavelet hadamard transform
 
-there is the word 'crypto' in the m-file title, but this can be run on any type of ordinal or time series data e.g. opening vs closing price, stereo audio, database entries, etc
+there is the word 'crypto' in the m-file title, but this can be run on any type of ordinal or time series data e.g. opening vs closing price, stereo audio, databases, etc
 
 reference and dependency:
 
