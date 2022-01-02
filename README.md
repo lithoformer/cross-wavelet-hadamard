@@ -9,4 +9,4 @@ https://www.mathworks.com/matlabcentral/fileexchange/47985-cross-wavelet-and-wav
 
 http://grinsted.github.io/wavelet-coherence
 
-use the conversions.ods open excel form to determine time-points of interest
+use the conversions.ods open office form to determine time-points of interest
