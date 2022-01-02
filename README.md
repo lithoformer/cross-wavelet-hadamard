@@ -1,7 +1,7 @@
 # cross-wavelet-hadamard
 cross-wavelet hadamard transform
 
-there is the word 'crypto' in the script title, but this can be run on any type of parallel time-series data e.g. opening price vs closing price, etc
+there is the word 'crypto' in the m-file title, but this can be run on any type of parallel time-series data e.g. opening price vs closing price, etc
 
 reference and dependency:
 
