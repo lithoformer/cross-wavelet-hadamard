@@ -1,7 +1,7 @@
 # cross-wavelet-hadamard
 cross-wavelet hadamard transform
 
-there is the word 'crypto' in the m-file title, but this can be run on any type of parallel time-series data e.g. opening price vs closing price, etc
+there is the word 'crypto' in the m-file title, but this can be run on any type of parallel time-series data e.g. opening price vs closing price, stereo audio, etc
 
 reference and dependency:
 
@@ -9,4 +9,4 @@ https://www.mathworks.com/matlabcentral/fileexchange/47985-cross-wavelet-and-wav
 
 http://grinsted.github.io/wavelet-coherence
 
-use the conversions.ods open excel form to determine dates of transactions of interest
+use the conversions.ods open excel form to determine time-points of interest
