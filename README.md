@@ -8,3 +8,5 @@ reference and dependency:
 https://www.mathworks.com/matlabcentral/fileexchange/47985-cross-wavelet-and-wavelet-coherence
 
 http://grinsted.github.io/wavelet-coherence
+
+use the conversions.ods openoffice form to determine dates of transactions of interest
