@@ -1,6 +1,6 @@
 function [x,y,g,l,z,q] = pauliz_hadamard_2_crypto_on(coin1,type)
 
-%computes cryptocurrency Hadamard transforms in Pauli operator space
+%computes cross-wavelet Hadamard transforms in Pauli operator space
 
 if nargin ~= 2
 
