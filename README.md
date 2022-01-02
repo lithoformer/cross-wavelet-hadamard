@@ -9,6 +9,4 @@ https://www.mathworks.com/matlabcentral/fileexchange/47985-cross-wavelet-and-wav
 
 http://grinsted.github.io/wavelet-coherence
 
-use the conversions.ods openoffice form to determine dates of transactions of interest
-
-https://www.openoffice.org
+use the conversions.ods open excel form to determine dates of transactions of interest
