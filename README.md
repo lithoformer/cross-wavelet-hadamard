@@ -7,8 +7,6 @@ takes the sign of the first derivative, within and across data, as input
 
 reference and dependency:
 
-https://en.wikipedia.org/wiki/Pauli_matrices
-
 https://en.wikipedia.org/wiki/Hadamard_transform
 
 http://grinsted.github.io/wavelet-coherence
