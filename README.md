@@ -7,7 +7,9 @@ takes the sign of the first derivative, within and across data, as input
 
 reference and dependency:
 
-https://www.mathworks.com/matlabcentral/fileexchange/47985-cross-wavelet-and-wavelet-coherence
+https://en.wikipedia.org/wiki/Pauli_matrices
+
+https://en.wikipedia.org/wiki/Hadamard_transform
 
 http://grinsted.github.io/wavelet-coherence
 
