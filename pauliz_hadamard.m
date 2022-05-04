@@ -1,4 +1,4 @@
-function [x,y,g,l,z,q] = pauliz_hadamard_2_crypto_on(coin1,type)
+function [x,y,g,l,z,q] = pauliz_hadamard(coin1,type)
 
 %computes cryptocurrency Hadamard transforms in Pauli operator space
 
