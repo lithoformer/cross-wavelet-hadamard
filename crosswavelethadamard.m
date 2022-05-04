@@ -1,10 +1,10 @@
-function [x,y,g,l,z,q] = pauliz_hadamard_2_crypto_on(coin1,type)
+function [x,y,g,l,z,q] = crosswavelethadamard(data1,type)
 
-%computes cryptocurrency Hadamard transforms in Pauli operator space
+%computes a cross-wavelet Hadamard transform
 
 if nargin ~= 2
 
-	error('Please enter a coin, transform ordering type - 0 for hadamard, 1 for dyadic, default is sequency');
+	error('Please enter the data and transform ordering type - 0 for hadamard, 1 for dyadic, default is sequency');
 
 end
 
@@ -12,7 +12,7 @@ end
 p_two=[1,2,4,8,16,32,64,128,256,512,1024,2048,4096,8192,16384,32768,65536,131072,262144,524288,1048576,2097152,4194304,8388608];
 
 %read files
-Y=xlsread(coin1);
+Y=xlsread(data1);
 y=length(Y(:,1));
 
 %generate overnight
